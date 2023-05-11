@@ -18,3 +18,5 @@ print(''.join(chr(_) for _ in [
     __ << ____ | _ ^ ____,
     _ << ____ | _,
 ]))
+
+print("Hello World!")
